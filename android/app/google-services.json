@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "273896514321",
+    "project_id": "pagefan-2bb50",
+    "storage_bucket": "pagefan-2bb50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273896514321:android:cf7197f7e49066bebe22b0",
+        "android_client_info": {
+          "package_name": "com.example.fanpage_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273896514321-tosud90lo5ll34h6r32pvl4tvssos3s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMgzvWQpNNs-WDINBs6xiTnE5mKS7d41Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273896514321-tosud90lo5ll34h6r32pvl4tvssos3s6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
